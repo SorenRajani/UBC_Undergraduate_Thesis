@@ -4,4 +4,5 @@ Future changes will include a justification of my methodologies and the finished
 
 ## Files
 -Data_Analysis: A jupyter notebook (in python) going through the data analysis and estimation equations
+<br/>
 -Labour_Compensation: An xlsx file containing data collected by the OECD used in this project
